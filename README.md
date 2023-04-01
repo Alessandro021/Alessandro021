@@ -1,5 +1,5 @@
 ### Ola! eu sou o Alessandro da Mata 👋
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Alessandro021) [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://github.com/Alessandro021)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Alessandro021) [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Alessandro021)
 
 
 ![Alessandro GitHub status](https://github-readme-stats.vercel.app/api?username=Alessandro021&show_icons=true&theme=radical)
